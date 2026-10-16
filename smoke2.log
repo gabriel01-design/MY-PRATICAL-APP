@@ -1,0 +1,9 @@
+
+> my-practical-app@0.1.0 start
+> next start -p 3113
+
+▲ Next.js 16.4.0
+- Local:         http://localhost:3113
+- Network:       http://192.168.1.86:3113
+✓ Ready in 459ms
+✓ Running next.config.ts took 119ms
